@@ -1,6 +1,5 @@
-import EmployeeDTO.EmployeeDTOBuilder;
 
-public class Demo
+public class Demo extends EmployeeDTO
 {
 	public static void main(String[] args)
 	{
